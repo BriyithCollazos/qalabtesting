@@ -6,7 +6,6 @@ public class Google {
         String sName = "Popayan";
         String sApellido = "Collazos";
 
-
         int iNro = 100;
 
     }
