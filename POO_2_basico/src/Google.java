@@ -1,5 +1,5 @@
 public class Google {
-    public void Google(){
+    public void Gooogle(){
         // comentarios
         int i =0;
         
@@ -7,6 +7,9 @@ public class Google {
         String sApellido = "Collazos";
 
         int iNro = 100;
+
+        int iNroBrazo = 2;
+
 
     }
 }
