@@ -1,7 +1,7 @@
 public class Google {
     public void Google(){
         // comentarios
-        int i =0;
+        int i = 0;
         
         String sName = "Popayan";
         String sApellido = "Collazos";
@@ -9,5 +9,7 @@ public class Google {
 
         int iNro = 100;
 
+        String sMascota = "Choco";
+        String sColorOjos =  "Cafe";
     }
 }
