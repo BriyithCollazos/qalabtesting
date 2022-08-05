@@ -6,11 +6,9 @@ public class Google {
         String sName = "Popayan";
         String sApellido = "Collazos";
 
-
         int iNro = 100;
 
         int iNroBrazo = 2;
-
 
         String sMascota = "Choco";
         String sColorOjos =  "Cafe";
