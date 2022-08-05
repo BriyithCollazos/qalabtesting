@@ -3,5 +3,8 @@ public class Google {
         // comentarios
         int i =0;
 
+
+        int iNro = 100;
+
     }
 }
